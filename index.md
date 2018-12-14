@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: Maryam Tavakol
 ---
 # About Me
 I am a member of Machine Learning group at the Institute of Information Systems at Leuphana University of Lüneburg as Research Assistant, and at the same time, doing my PhD in the Computer Science department of TU Darmstadt. My major area of research is using Machine Learning techniques in Recommender Systems and Personalization. I received both of my B.Sc. and M.Sc degrees in Computer Science from the University of Tehran, Iran. Here is my CV.
