@@ -1,0 +1,32 @@
+body {
+	font-family: 'Lato', Verdana, Helvetica, sans-serif;
+}
+
+h3{
+	font-size: 32px;
+	font-weight: normal;
+}
+
+h4{
+	font-size: 22px;
+	font-weight: normal;
+}
+#container{
+  margin: 0 auto;
+  width: 800px;
+}
+
+#col-left{
+	width: 65%;
+	float: left;
+}
+
+#col-right{
+	width: 30%;
+	float: right;
+}
+
+.img-circle{
+	border-radius: 50%;
+	width: 250px;
+}
