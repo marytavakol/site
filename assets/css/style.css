@@ -51,4 +51,7 @@ footer{
 }
 .publication .left img{
 	max-height: 80px;
+	max-width: 140px;
+	display: block;
+	margin: 0 auto;
 }
