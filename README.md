@@ -12,3 +12,5 @@ bundle install
 # Run locally:
 `bundle exec jekyll serve --baseurl ''
 `
+
+New template
