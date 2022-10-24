@@ -72,6 +72,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://uai.win.tue.nl/author/maryam-tavakol/"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=2ycXzoIAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/marytavakol"
@@ -81,6 +84,9 @@ author:
 
 footer:
   links:
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=2ycXzoIAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/marytavakol"
