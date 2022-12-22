@@ -1,11 +1,9 @@
 main:
-  - title: "About"
-    url: /about/
+  - title: "News"
+    url: /posts/
   - title: "Publications"
     url: /publications/
   - title: "Teaching"
     url: /teaching/
-  - title: "News"
-    url: /posts/
   - title: "Research Projects"
     url: /research-projects/
