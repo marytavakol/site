@@ -8,7 +8,7 @@ toc: true
 
 ## 2022
 
-[Matrix factorization with denoising autoencoders for prediction of drug–target interactions](../assets/publications/ida22.pdf)  
+[Matrix factorization with denoising autoencoders for prediction of drug–target interactions](/assets/publications/MolecularDiversity2022.pdf)  
 S.Z. Sajadi, M.A. Zare Chahooki, M. Tavakol, S. Gharaghani
 Molecular Diversity, 1-11
 
