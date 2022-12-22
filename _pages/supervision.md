@@ -13,7 +13,7 @@ classes: wide
 * (Ongoing) *Youri Vis*, Effective Sampling in Intrinsically Motivated Reinforcement Learning
 * (Ongoing) *Jeroen Albrechts*, Hyperparameter Optimization via Model-Based Reinforcement Learning
 * (2022) *Mathijs Boezer*, FastDTI: Drug-Target Interaction Prediction using
-Multimodality and Transformers, [Accepted at NLDL 2023](https://maryamtavakol.com/paper/NLDL/)
+Multimodality and Transformers, **Accepted at NLDL 2023**
 * (2022) *Çağla Sözen*, A comparative study on Unsupervised Deep Learning Methods for X-Ray Image denoising with Multi-Image Self2Self and Single Frequency, Denoising, in collaboration with [Philips Research](https://www.philips.com/a-w/about/innovation/research.html)
 * (2021) *Stef Creemers*, Balancing Efficiency and Fairness on Ride-Hailing Platforms via Reinforcement Learning
 * (2021) *Zian Fang*, Long- and Short-term Sequential Recommendation with Enhanced Temporal Self-attention
@@ -26,7 +26,7 @@ Multimodality and Transformers, [Accepted at NLDL 2023](https://maryamtavakol.co
 
 ### Bachelor Thesis
 * (2022) *Yana Stoyanova*, Comparison Between Various Ensemble Uncertainty Quantification
-Methods in Regression Tasks, [Accepted at AAAI 2023](https://maryamtavakol.com/posts/)
+Methods in Regression Tasks, **Accepted at AAAI 2023**
 * (2022) *Lieve Göbbels*, Unreliable Uncertainty: How Bayesian Non-identifiability Influences the Performance of Uncertainty Quantification Methods in the Context of Reinforcement Learning
 * (2016) *Akath Singh Dua*, Sequential Recommendation Systems
 * (2015) *Radhika Gaonkar*, MDP-based itinerary recommendation using geo-tagged social media, [Published at IDA 2018](https://link.springer.com/chapter/10.1007/978-3-030-01768-2_10)
