@@ -8,6 +8,14 @@ toc: true
 
 ## 2022
 
+[Matrix factorization with denoising autoencoders for prediction of drug–target interactions](../assets/publications/ida22.pdf)  
+S.Z. Sajadi, M.A. Zare Chahooki, M. Tavakol, S. Gharaghani
+Molecular Diversity, 1-11
+
+[Survey on Fair Reinforcement Learning: Theory and Practice](/assets/publications/FairnessSurvey2022.pdf)  
+P. Gajane, A. Saxena, M. Tavakol, G. Fletcher, M. Pechenizkiy
+arXiv preprint arXiv:2205.10032
+
 [MuseBar: Alleviating Posterior Collapse in Recurrent VAEs toward Music Generation](../assets/publications/ida22.pdf)  
 H. Wu and M. Tavakol  
 International Symposium on Intelligent Data Analysis, IDA 2022
