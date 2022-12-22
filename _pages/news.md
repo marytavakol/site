@@ -62,17 +62,43 @@ the [International Symposium on Intelligent Data Analysis 2022](https://ida-2022
 <br/>I joined the [Uncertainty in AI group](https://uai.win.tue.nl/#intro) of TU/e as an assistant professor.
 
 
-** ** <small class="news-date"> </small>
-<br/>
+**PC member at various venues in 2020** <small class="news-date">October 2020</small>
+<br/>I serve as a technical program committee at ICML 2020 and ECML 2020.
 
-** ** <small class="news-date"> </small>
-<br/>
+**Accepted paper at SIGIR 2020** <small class="news-date">April 2020</small>
+<br/>My paper entitled ["Fair Classification with Counterfactual Learning"](/assets/publications/sigir20.pdf) has been accepted at the [43rd Annual International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2020)](https://sigir.org/sigir2020/).
 
-** ** <small class="news-date"> </small>
-<br/>
+**Accepted paper at ECAI** <small class="news-date">January 2020</small>
+<br/>Our paper entitled ["Distantly Supervised Question Parsing"](/assets/publications/ecai20.pdf) has been accepted at the [European Conference on Artificial Intelligence, ECAI 2020](http://ecai2020.eu/).
 
-** ** <small class="news-date"> </small>
-<br/>
 
-** ** <small class="news-date"> </small>
-<br/>
+**Invited Talk** <small class="news-date">December 2019</small>
+<br/>I will give a talk about Sequential Recommendation on December 6th, 2019, 10:00 at Leibniz University Hannover.  
+
+**Accepted Proposal by VolkswagenStiftung foundation** <small class="news-date">December 2019</small>
+<br/>Our proposal for planning grant of "AI and the Society of the Future" has been accepted by VolkswagenStiftung foundation.
+
+
+**Accepted paper at KI** <small class="news-date">July 2019</small>
+<br/>Our paper entitled ["Personalized Transaction Kernels for Recommmendation via MCTS"](/assets/publications/KI19.pdf) got accepted at the [German Conference on Artificial Intelligence](http://www.ki2019.de/).
+
+
+**Accepted paper at ECML Workshop** <small class="news-date">July 2019</small>
+<br/>Our paper entitled ["HyperUCB: Hyperparameter Optimization using Contextual Bandits"](/assets/publications/ADS19.pdf) got accepted at [ECML Workshop on Automated Data Science](https://sites.google.com/view/autods).
+
+
+**PC member at various venues in 2019** <small class="news-date">May 2019</small>
+<br/>I serve as a technical program committee at ECML 2019 and LWDA 2019.
+
+
+**Defended my Ph.D. dissertation** <small class="news-date">April 2019</small>
+<br/>I have successfully defended my Ph.D. dissertation in computer science department of TU Darmstadt.  
+You can download my dissertation from the [central library of TU Darmstadt](http://tuprints.ulb.tu-darmstadt.de/8667/).
+
+
+**Joining TU Dortmund** <small class="news-date">March 2019</small>
+<br/>I started working as a postdoctoral researcher at the Artificial Intelligence group of TU Dortmund.
+
+
+**Invited Talk** <small class="news-date">March 2019</small>
+<br/>I will give a talk about "Contextual Models for Sequential Recommendation" on April 4th, 2019, 12:15 at Leuphana University of Lüneburg (Room C614.2013).
