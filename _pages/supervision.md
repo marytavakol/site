@@ -4,6 +4,10 @@ title: "Supervision"
 classes: wide
 ---
 
+<style>
+.page__content li {font-size:0.8em}
+</style>
+
 ### Master Thesis
 * (Ongoing) *Maiko Bergman*, Offline Reinforcement Learning
 * (Ongoing) *Cas Teeuwen*, Delivery Planning via Reinforcement Learning, in collaboration with [Datacation](https://www.datacation.nl/)
