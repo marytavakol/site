@@ -8,7 +8,12 @@ I am an Assistant Professor at the [Uncertainty in AI](https://uai.win.tue.nl/#i
 I received both of my B.Sc. and M.Sc degrees in Computer Science from the [University of Tehran](https://ut.ac.ir/en), Iran.
 
 ## Research Interest
-Machine Learning; Reinforcement Learning and Multi-armed Bandits; Recommendation Systems; Deep Learning;Counterfactual Learning; Fairness-aware Learning; Applied Machine Learning
+<ul>
+<li>(Offline) Reinforcement Learning</li>
+<li>Fairness-aware Learning</li>
+<li>Applied Machine Learning</li>
+<li>Recommendation Systems</li>
+</ul>
 
 ## Education
 
