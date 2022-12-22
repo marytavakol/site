@@ -1,6 +1,6 @@
 ---
 title: "Accepted Proposal at EWUU alliance 2022"
-date: 2022-08-01T00:00:00-00:00
+date: 2022-09-01T00:00:00-00:00
 categories:
   - paper
 tags:
