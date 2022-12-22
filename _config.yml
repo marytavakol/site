@@ -67,9 +67,9 @@ analytics:
 author:
   name   : "Maryam Tavakol"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Assistant Professor at TU/e"
+  bio    : "Assistant Professor at TU/e <br /> Eindhoven, The Netherlands"
   links:
-    - label: "UAI Website"
+    - label: "TU/e Website"
       icon: "fas fa-fw fa-link"
       url: "https://uai.win.tue.nl/author/maryam-tavakol/"
     - label: "Google Scholar"
