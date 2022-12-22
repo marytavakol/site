@@ -14,43 +14,43 @@ ul li {margin-bottom:  0px;}
 
 #### AY 2022-2023
 
-* Data Challenge 1 (Q3) <small>Bachelor of Data Science</small>
-* Data Intelligence Challeng (Q4) <small>Master of Data Sceince & AI</small>
+* Data Challenge 1 (Q3) <small class="news-date">Bachelor of Data Science</small>
+* Data Intelligence Challeng (Q4) <small class="news-date">Master of Data Sceince & AI</small>
 
 
 #### AY 2021-2022
 
-* Data Challenge 1 (Q2) <small>Bachelor of Data Science</small>
-* Data Intelligence Challeng (Q4) <small>Master of Data Sceince & AI</small>
+* Data Challenge 1 (Q2) <small class="news-date">Bachelor of Data Science</small>
+* Data Intelligence Challeng (Q4) <small class="news-date">Master of Data Sceince & AI</small>
 
 #### AY 2020-2021
-* Foundations of Data Mining (Q1) <small>Master of Data Sceince & Engineering</small>
-* Data Challenge 1 (Q2) <small>Bachelor of Data Science</small>
+* Foundations of Data Mining (Q1) <small class="news-date">Master of Data Sceince & Engineering</small>
+* Data Challenge 1 (Q2) <small class="news-date">Bachelor of Data Science</small>
 
 
 ### Technical University of Dortmund
 
 #### AY 2019-2020
 
-* Recommender Systems Seminar (Fall)
-* Data Mining Seminar (Spring)
+* Recommender Systems Seminar (Fall)  <small class="news-date">Master program</small>
+* Data Mining Seminar (Spring)  <small class="news-date">Master program</small>
 
 
 ### Leuphana University of Lüneburg
 
 #### AY 2018-2019
 
-* Introduction to Python Programming (Fall)
-* Recommender Systems Seminar (Fall)
+* Introduction to Python Programming (Fall) <small class="news-date">Bachelor program</small>
+* Recommender Systems Seminar (Fall) <small class="news-date">Master program</small>
 
 #### AY 2017-2018
-* Recommender Systems Seminar (Fall)
-* Data Mining Seminar (Spring)
+* Recommender Systems Seminar (Fall) <small class="news-date">Master program</small>
+* Data Mining Seminar (Spring) <small class="news-date">Bachelor program</small>
 
 #### AY 2016-2017
 
-* Introduction to Python Programming (Fall)
-* Data Mining Seminar (Spring)
+* Introduction to Python Programming (Fall) <small class="news-date">Bachelor program</small>
+* Data Mining Seminar (Spring) <small class="news-date">Bachelor program</small>
 
 
 
