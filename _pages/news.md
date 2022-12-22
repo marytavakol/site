@@ -4,7 +4,7 @@ title: "News"
 classes: wide
 ---
 **AI in gaming: featured in de Volkskrant** <small class="news-date">December 2022</small>
-<br/>An article about the role of artificial intelligence in various games was published (in Dutch) at the [de Volkskrant](https://www.volkskrant.nl/nieuws-achtergrond/ook-met-stratego-wint-kunstmatige-intelligentie-nu-van-de-topspelers-wat-betekent-dat~b86429be/), in which I was interviewed about how the advancement of AI in games can be incorporated in real-life decision-making problem. 
+<br/>I was interviewed about how the advancement of artificial intelligence in various games can be incorporated in real-life problems which is published (in Dutch) at the [de Volkskrant](https://www.volkskrant.nl/nieuws-achtergrond/ook-met-stratego-wint-kunstmatige-intelligentie-nu-van-de-topspelers-wat-betekent-dat~b86429be/).
 
 **Accepted paper at AAAI** <small class="news-date">November 2022</small>
 <br />Our paper entitled "Toward Robust Uncertainty Estimation with Random Activation Functions" has been accepted at the [Thirty-Seventh AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-23/). 
