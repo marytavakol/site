@@ -1,6 +1,6 @@
 ---
 title: "Accepted paper at ICDE 2021"
-date: 2020-12-02T00:00:00-00:00
+date: 2020-12-01T00:00:00-00:00
 categories:
   - paper
 ---
