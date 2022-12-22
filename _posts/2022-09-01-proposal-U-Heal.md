@@ -2,7 +2,7 @@
 title: "Accepted Proposal at EWUU alliance 2022"
 date: 2022-09-01T00:00:00-00:00
 categories:
-  - paper
+  - proposal
 tags:
   - Uncertainty-Estimation
 ---
