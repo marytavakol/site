@@ -1,5 +1,5 @@
 ---
-title: "New Paper"
+title: "Accepted paper at Journal of Molecular Diversity"
 date: 2022-07-01T00:00:00-00:00
 categories:
   - paper
