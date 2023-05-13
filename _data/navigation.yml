@@ -5,5 +5,7 @@ main:
     url: /publications/
   - title: "Teaching"
     url: /teaching/
+  - title: "Open positions"
+    url: /open_positions/
   - title: "Supervision"
     url: /supervision/
