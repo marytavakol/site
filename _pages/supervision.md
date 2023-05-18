@@ -12,10 +12,9 @@ classes: wide
 * (Ongoing) *Maiko Bergman*, Offline Reinforcement Learning, TU Eindhoven
 * (Ongoing) *Cas Teeuwen*, Delivery Planning via Reinforcement Learning, TU Eindhoven, in collaboration with [Datacation](https://www.datacation.nl/)
 * (Ongoing) *Nicholas Kölln*, Offline Reinforcement Learning via Transformers, TU Eindhoven
-* (Ongoing) *Arda Günay*, Offline Reinforcement Learning, TU Eindhoven
 * (Ongoing) *Ibrahim El Garmouhi*, Robust Counterfactual Model Explanation for Patient-Centric Life-style Recommendation on the Cloud, TU Eindhoven, in collaboration with [dr. Mostafa Kia](https://research.tilburguniversity.edu/en/persons/seyed-mostafa-kia)
-* (Ongoing) *Youri Vis*, Effective Sampling in Intrinsically Motivated Reinforcement Learning, TU Eindhoven
-* (Ongoing) *Jeroen Albrechts*, Hyperparameter Optimization via Model-Based Reinforcement Learning, TU Eindhoven
+* (2022) *Youri Vis*, Effective Sampling in Intrinsically Motivated Reinforcement Learning, TU Eindhoven
+* (2022) *Jeroen Albrechts*, Hyperparameter Optimization via Model-Based Reinforcement Learning, TU Eindhoven
 * (2022) *Mathijs Boezer*, FastDTI: Drug-Target Interaction Prediction using
 Multimodality and Transformers, TU Eindhoven, **Accepted at NLDL 2023**
 * (2022) *Çağla Sözen*, A comparative study on Unsupervised Deep Learning Methods for X-Ray Image denoising with Multi-Image Self2Self and Single Frequency, Denoising, TU Eindhoven, in collaboration with [Philips Research](https://www.philips.com/a-w/about/innovation/research.html)
