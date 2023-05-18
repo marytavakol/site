@@ -3,9 +3,9 @@ permalink: /news/
 title: "News"
 classes: wide
 ---
-**Invited talk: Women in Data Science Twente (XAI for Healthcare application)** <small class="news-date">June 8th 2023</small>
+**Invited talk** <small class="news-date">May 2023</small>
 <br/>
-Topic: Fairness in Machine Learning. Stay tuned for more details.
+I will give a talk on "Fairness in Machine Learning" at XAI for Healthcare application conference organized by Women in Data Science in Twente on **June 8th 2023**.
 
 **PhD Position in Reinforcement Learning** <small class="news-date">March 2023</small>
 <br/>I am looking for a highly motivated and skilled PhD candidate to work in the area of Reinforcement Learning. For more information regarding the position and how to apply, please follow this [link](https://jobs.tue.nl/en/vacancy/phd-position-in-reinforcement-learning-990306.html).
