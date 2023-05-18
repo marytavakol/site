@@ -15,13 +15,13 @@ ul li {margin-bottom:  0px;}
 #### AY 2022-2023
 
 * Data Challenge 1 (Q3) <small class="news-date">Bachelor of Data Science</small>
-* Data Intelligence Challeng (Q4) <small class="news-date">Master of Data Sceince & AI</small>
+* Data Intelligence Challenge (Q4) <small class="news-date">Master of Data Sceince & AI</small>
 
 
 #### AY 2021-2022
 
 * Data Challenge 1 (Q2) <small class="news-date">Bachelor of Data Science</small>
-* Data Intelligence Challeng (Q4) <small class="news-date">Master of Data Sceince & AI</small>
+* Data Intelligence Challenge (Q4) <small class="news-date">Master of Data Sceince & AI</small>
 
 #### AY 2020-2021
 * Foundations of Data Mining (Q1) <small class="news-date">Master of Data Sceince & Engineering</small>
