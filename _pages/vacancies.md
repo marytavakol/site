@@ -5,7 +5,7 @@ classes: wide
 ---
 
 # Open PhD positions
-There are currenly no available funded PhD positions that are funded. Self-funded or externally funded candidate will be evaluated on a case-by-case basis.
+There are currenly no available funded PhD positions. Self-funded or externally funded candidate will be evaluated on a case-by-case basis.
 
 ## Closed positions
 **PhD Position in Reinforcement Learning** <small class="news-date">March 2023</small>
