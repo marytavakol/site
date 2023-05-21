@@ -77,6 +77,6 @@ This project is available for a master student with a strong background in reinf
   </sub>
 </details>
 
-</br>
+<br/>
 ### <u>Bachelor thesis</u>
 
