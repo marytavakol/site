@@ -49,26 +49,27 @@ This project is available for a master student with a strong background in reinf
 
 [10] Sajad Khodadadian, Pranay Sharma, Gauri Joshi, and Siva Theja Maguluri. Federated reinforcement learning: Linear speedup under Markovian sampling. In ICML, 2022.<br/>
 </details>
-
+<br/>
 **Offline RL under Distribution Shifts**<br/>
 In collaboration with [Ali Ramezani-Kebrya, University of Oslo](https://www.mn.uio.no/ifi/english/people/aca/ali/index.html).
 <details>
   <summary>See the description</summary>
-  Distribution shifts between a source and a target domain have been a prominent problem in machine learning for several decades [1-3]. Covariance shift (as well as its assumption) is the most commonly used and studied in theory and practice in distribution shifts [1-3]. Handling covariate shift is a challenging issue. The premise behind such shifts is that data is frequently biased, and this results in distribution shifts that can be estimated by assuming some (unlabelled) knowledge of the target distribution. Density ratio estimation is an important step in various machine learning problems such as learning under covariate shift, learning under noisy labels, anomaly detection, two-sample testing, causal inference, change-point detection, and classification from positive and unlabelled data [1-3].
+  Distribution shifts between a source and a target domain have been a prominent problem in machine learning for several decades [1-3]. Covariance shift (as well as its assumption) is the most commonly used and studied in theory and practice in distribution shifts [1-3]. Handling covariate shift is a challenging issue. The premise behind such shifts is that data is frequently biased, and this results in distribution shifts that can be estimated by assuming some (unlabelled) knowledge of the target distribution. Density ratio estimation is an important step in various machine learning problems such as learning under covariate shift, learning under noisy labels, anomaly detection, two-sample testing, causal inference, change-point detection, and classification from positive and unlabelled data [1-3].<br/>
 
-The primary challenge in offline RL is successfully handling distributional shifts [4]. Developing efficient and accurate density ratio estimation methods to obtain a consistent estimate of the actual Q-function using data from past interactions with the environment is a major problem in RL [4-7]. Some references include: 
+The primary challenge in offline RL is successfully handling distributional shifts [4]. Developing efficient and accurate density ratio estimation methods to obtain a consistent estimate of the actual Q-function using data from past interactions with the environment is a major problem in RL [4-7]. <br/>
+  
 This project is available for a master student with a strong background in reinforcement learning. Students should be familiar with PyTorch. 
-
-[1] Masashi Sugiyama, Matthias Krauledat, and Klaus-Robert Müller. Covariate shift adaptation by importance weighted cross validation. JMLR, 8(5):1-21, 2007.
+<br/>
+[1] Masashi Sugiyama, Matthias Krauledat, and Klaus-Robert Müller. Covariate shift adaptation by importance weighted cross validation. JMLR, 8(5):1-21, 2007.<br/>
 
 [2] Takafumi Kanamori and Shohei Hido and Masashi Sugiyama. A least-squares approach to direct importance estimation. JMLR, 10:1–55, 2009.
+<br/>
+[3] Ali Ramezani-Kebrya, Fanghui Liu, Thomas Pethick, Grigorios Chrysos, and Volkan Cevher. Federated learning under distribution shifts with generalization guarantees. under review.<br/>
 
-[3] Ali Ramezani-Kebrya, Fanghui Liu, Thomas Pethick, Grigorios Chrysos, and Volkan Cevher. Federated learning under distribution shifts with generalization guarantees. under review.
-
-[4] https://bair.berkeley.edu/blog/2020/12/07/offline/
-[5] Aviral Kumar, Aurick Zhou, George Tucker, and Sergey Levine. Conservative q-learning for offline reinforcement learning. In Proc. NeurIPS, 2020.
-[6] Masatoshi Uehara, Masahiro Kato, and Shota Yasui. Off-policy evaluation and learning for external validity under a covariate shift. In Proc. NeurIPS, 2020.
-[7] Ilya Kostrikov, Ashvin Nair, and Sergey Levine. Offline reinforcement learning with implicit Q-learning. In Proc. ICLR, 2022.
+[4] https://bair.berkeley.edu/blog/2020/12/07/offline/<br/>
+[5] Aviral Kumar, Aurick Zhou, George Tucker, and Sergey Levine. Conservative q-learning for offline reinforcement learning. In Proc. NeurIPS, 2020.<br/>
+[6] Masatoshi Uehara, Masahiro Kato, and Shota Yasui. Off-policy evaluation and learning for external validity under a covariate shift. In Proc. NeurIPS, 2020.<br/>
+[7] Ilya Kostrikov, Ashvin Nair, and Sergey Levine. Offline reinforcement learning with implicit Q-learning. In Proc. ICLR, 2022.<br/>
 
 </details>
 ### Bachelor thesis
