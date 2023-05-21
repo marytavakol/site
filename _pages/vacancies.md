@@ -4,7 +4,7 @@ title: "Vacancies"
 classes: wide
 ---
 
-### PhD positions
+### <u>PhD positions</u>
 There are currenly no available funded PhD positions. 
 
 **Self or Externally Funded PhD Positions:**<br/>
