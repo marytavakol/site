@@ -23,10 +23,11 @@ In collaboration with [Ali Ramezani-Kebrya, University of Oslo](https://www.mn.u
   It is widely known that training deep neural networks on huge datasets improves learning. However, huge datasets and deep neural networks can no longer be trained on a single machine. One common solution is to train using distributed systems. In addition to traditional data-centers, in federated learning,  multiple clients, e.g., a few hospitals and thousands of cellphones learn a model without sharing local data to prevent the potential privacy issues.</p>
  <p>
 Several methods have been proposed to accelerate training for classical empirical risk minimization (ERM) in supervised learning and beyond such as gradient (or model update) compression, gradient sparsification, weight quantization/sparsification, and reducing the frequency of communication though multiple local updates. Unbiased vector quantization is in particular an interesting compression method due to both enjoying strong theoretical guarantees along with providing communication efficiency  on the fly, i.e., it converges under the same hyperparameteres tuned for vanilla uncompressed SGD while providing substantial savings in terms of communication costs [1-4].
-  <br/>
  </p>
+     <p>
 In this project, we investigate how to accelerate training deep neural networks in distributed reinforcement learning (DRL) [5-10]. In particular, our goal is to show: 1) How can we modify adaptive variants of unbiased quantization schemes tailored to general DRL problems; 2) Can we achieve optimal rate of convergence while establishing strong guarantees on the number of communication bits? 3) Do our new methods show strong empirical performance on deep neural networks and huge datasets, both in terms of performance measures and scalability?
 <br/>
+     </p>
    <p>
 This project is available for a master student with a strong background in reinforcement learning. Students should be familiar with reinforcement learning, PyTorch. Familiarity with distributed optimization, MPI, and CUDA is a plus.
       </p>
