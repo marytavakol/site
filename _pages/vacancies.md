@@ -14,14 +14,13 @@ If you are passionate about research and seek academic freedom, explore self-fun
 **PhD Position in Reinforcement Learning** <small class="news-date">March 2023</small>
 <br/>I am looking for a highly motivated and skilled PhD candidate to work in the area of Reinforcement Learning. For more information regarding the position and how to apply, please follow this [link](https://jobs.tue.nl/en/vacancy/phd-position-in-reinforcement-learning-990306.html). Deadline is May 7th, 2023. 
 
-### Master thesis
+### <u>Master thesis</u>
 **Efficient Unbiased Training of Large-scale Distributed RL**<br/>
 In collaboration with [Ali Ramezani-Kebrya, University of Oslo](https://www.mn.uio.no/ifi/english/people/aca/ali/index.html).
 <details>
   <summary>See the description</summary>
   <p>
   It is widely known that training deep neural networks on huge datasets improves learning. However, huge datasets and deep neural networks can no longer be trained on a single machine. One common solution is to train using distributed systems. In addition to traditional data-centers, in federated learning,  multiple clients, e.g., a few hospitals and thousands of cellphones learn a model without sharing local data to prevent the potential privacy issues.</p>
-  <br/>
  <p>
 Several methods have been proposed to accelerate training for classical empirical risk minimization (ERM) in supervised learning and beyond such as gradient (or model update) compression, gradient sparsification, weight quantization/sparsification, and reducing the frequency of communication though multiple local updates. Unbiased vector quantization is in particular an interesting compression method due to both enjoying strong theoretical guarantees along with providing communication efficiency  on the fly, i.e., it converges under the same hyperparameteres tuned for vanilla uncompressed SGD while providing substantial savings in terms of communication costs [1-4].
   <br/>
@@ -30,7 +29,6 @@ In this project, we investigate how to accelerate training deep neural networks 
 <br/>
    <p>
 This project is available for a master student with a strong background in reinforcement learning. Students should be familiar with reinforcement learning, PyTorch. Familiarity with distributed optimization, MPI, and CUDA is a plus.
-  <br/>
       </p>
 <sup>
 [1] Dan Alistarh, Demjan Grubic, Jerry Z. Li, Ryota Tomioka, and Milan Vojnovic. QSGD: Communication-efficient SGD via gradient quantization and encoding. In Proc. NeurIPS, 2017.<br/>
@@ -80,5 +78,5 @@ This project is available for a master student with a strong background in reinf
 </details>
 
 </br>
-### Bachelor thesis
+### <u>Bachelor thesis</u>
 
