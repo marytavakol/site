@@ -15,7 +15,7 @@ If you are passionate about research and seek academic freedom, explore self-fun
 <br/>I am looking for a highly motivated and skilled PhD candidate to work in the area of Reinforcement Learning. For more information regarding the position and how to apply, please follow this [link](https://jobs.tue.nl/en/vacancy/phd-position-in-reinforcement-learning-990306.html). Deadline is May 7th, 2023. 
 
 ### Master thesis
-**Efficient Unbiased Training of Large-scale Distributed RL**
+**Efficient Unbiased Training of Large-scale Distributed RL**<br/>
 In collaboration with [Ali Ramezani-Kebrya, University of Oslo](https://www.mn.uio.no/ifi/english/people/aca/ali/index.html).
 <details>
   <summary>See the description</summary>
@@ -47,7 +47,7 @@ This project is available for a master student with a strong background in reinf
 [10] Sajad Khodadadian, Pranay Sharma, Gauri Joshi, and Siva Theja Maguluri. Federated reinforcement learning: Linear speedup under Markovian sampling. In ICML, 2022.
 </details>
 
-**Offline RL under Distribution Shifts**
+**Offline RL under Distribution Shifts**<br/>
 In collaboration with [Ali Ramezani-Kebrya, University of Oslo](https://www.mn.uio.no/ifi/english/people/aca/ali/index.html).
 <details>
   <summary>See the description</summary>
