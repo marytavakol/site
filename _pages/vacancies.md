@@ -32,7 +32,7 @@ In this project, we investigate how to accelerate training deep neural networks 
 This project is available for a master student with a strong background in reinforcement learning. Students should be familiar with reinforcement learning, PyTorch. Familiarity with distributed optimization, MPI, and CUDA is a plus.
   <br/>
       </p>
-
+<sup>
 [1] Dan Alistarh, Demjan Grubic, Jerry Z. Li, Ryota Tomioka, and Milan Vojnovic. QSGD: Communication-efficient SGD via gradient quantization and encoding. In Proc. NeurIPS, 2017.<br/>
 
 [2] Fartash Faghri, Iman Tabrizian, Ilia Markov, Dan Alistarh, Daniel M. Roy, and Ali  Ramezani-Kebrya. Adaptive gradient quantization for data-parallel SGD. In Proc. NeurIPS, 2020.<br/>
@@ -50,7 +50,7 @@ This project is available for a master student with a strong background in reinf
 
 [9] Srivatsan Krishnan, Maximilian Lam, Sharad Chitlangia, Zishen Wan, Gabriel Barth-Maron, Aleksandra Faust, and Vijay Janapa Reddi. Settling the communication complexity for distributed offline reinforcement learning. arXiv:1910.01055, 2022.<br/>
 
-[10] Sajad Khodadadian, Pranay Sharma, Gauri Joshi, and Siva Theja Maguluri. Federated reinforcement learning: Linear speedup under Markovian sampling. In ICML, 2022.<br/>
+[10] Sajad Khodadadian, Pranay Sharma, Gauri Joshi, and Siva Theja Maguluri. Federated reinforcement learning: Linear speedup under Markovian sampling. In ICML, 2022.</sup><br/>
 </details>
 <br/>
 **Offline RL under Distribution Shifts**<br/>
