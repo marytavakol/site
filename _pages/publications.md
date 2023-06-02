@@ -11,6 +11,13 @@ toc depth: 1
 .page__content p {font-size:0.8em}
 .page__content p a {font-size:16pt}
 </style>
+## 2023
+
+[FastDTI: Drug-Target Interaction Prediction using Multimodality and Transformers](/assets/publications/NLDL23.pdf)  
+M. Boezer, M. Tavakol, Z. Sajadi <br />
+Proceedings of the Northern Lights Deep Learning Workshop
+
+
 
 ## 2022
 
