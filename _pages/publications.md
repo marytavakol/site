@@ -13,6 +13,10 @@ toc depth: 1
 </style>
 ## 2023
 
+[Toward Robust Uncertainty Estimation with Random Activation Functions](/assets/publications/AAAI23.pdf)  
+Y. Stoyanova, S. Ghandi, M. Tavakol <br />
+Proceedings of the AAAI 2023, the Thirty-Seventh AAAI Conference on Artificial Intelligence.
+
 [FastDTI: Drug-Target Interaction Prediction using Multimodality and Transformers](/assets/publications/NLDL23.pdf)  
 M. Boezer, M. Tavakol, Z. Sajadi <br />
 Proceedings of the Northern Lights Deep Learning Workshop
