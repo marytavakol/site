@@ -3,12 +3,12 @@ permalink: /news/
 title: "News"
 classes: wide
 ---
+**PhD Position in Reinforcement Learning** <small class="news-date">June 2023</small>
+<br/>I am looking for a highly motivated and skilled PhD candidate to work in the area of Reinforcement Learning. For more information regarding the position and how to apply, please follow this [link](https://jobs.tue.nl/en/vacancy/phd-position-in-reinforcement-learning-990306.html).
+
 **Invited talk** <small class="news-date">May 2023</small>
 <br/>
 I am invited to give a talk about "Fairness in Machine Learning" at [**XAI for Healthcare application** conference](https://bdsi.bms.utwente.nl/events/Women-in-Data-Science/) organized by Women in Data Science, which is held in Twente on **June 8th 2023**.
-
-**PhD Position in Reinforcement Learning** <small class="news-date">March 2023</small>
-<br/>I am looking for a highly motivated and skilled PhD candidate to work in the area of Reinforcement Learning. For more information regarding the position and how to apply, please follow this [link](https://jobs.tue.nl/en/vacancy/phd-position-in-reinforcement-learning-990306.html).
 
 **AI in gaming: featured in de Volkskrant** <small class="news-date">December 2022</small>
 <br/>I was interviewed about how the advancement of artificial intelligence in various games can be incorporated in real-life problems which is published (in Dutch) at the [de Volkskrant](https://www.volkskrant.nl/nieuws-achtergrond/ook-met-stratego-wint-kunstmatige-intelligentie-nu-van-de-topspelers-wat-betekent-dat~b86429be/).
