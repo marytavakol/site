@@ -3,6 +3,9 @@ permalink: /news/
 title: "News"
 classes: wide
 ---
+**Teaching Qualification** <small class="news-date">October 2023</small>
+<br/>I recieved my University Teaching Qualification (BKO) certificate.
+
 **PhD Position in Reinforcement Learning** <small class="news-date">June 2023</small>
 <br/>I am looking for a highly motivated and skilled PhD candidate to work in the area of Reinforcement Learning. For more information regarding the position and how to apply, please follow this [link](https://jobs.tue.nl/en/vacancy/phd-position-in-reinforcement-learning-990306.html).
 
