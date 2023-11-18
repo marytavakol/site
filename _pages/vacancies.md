@@ -18,7 +18,7 @@ If you are passionate about research and seek academic freedom, explore self-fun
 
 ### <u>Master thesis</u>
 
-See the open projects on the [DAI website](https://dai.win.tue.nl/masterprojects/)
+See the open projects on the [DAI website](https://dai.win.tue.nl/masterprojects/).
 
 **Efficient Unbiased Training of Large-scale Distributed RL**<br/>
 In collaboration with [Ali Ramezani-Kebrya, University of Oslo](https://www.mn.uio.no/ifi/english/people/aca/ali/index.html).
