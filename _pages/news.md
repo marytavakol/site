@@ -3,6 +3,9 @@ permalink: /news/
 title: "News"
 classes: wide
 ---
+**Top Area Chair at NLDL** <small class="news-date">October 2023</small>
+<br/>I have been selected among the top area chairs in [NLDL 2024](https://www.nldl.org/organizers/program-commitee).
+
 **Teaching Qualification** <small class="news-date">October 2023</small>
 <br/>I recieved my University Teaching Qualification (BKO) certificate.
 
