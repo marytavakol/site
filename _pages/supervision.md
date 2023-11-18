@@ -9,7 +9,7 @@ classes: wide
 </style>
 
 ### PhD Candidates
-* *Hugo Max MArtin*, Model-based Offline Reinforcement Learning, TU Eindhoven
+* *Hugo Max Martin*, Model-based Offline Reinforcement Learning, TU Eindhoven
 
 ### Master Thesis
 * (Ongoing) *Rick van Oosterhout*, Multi-fidelity Simulation Optimization for Large-scale Problems, TU Eindhoven
