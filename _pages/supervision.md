@@ -9,6 +9,7 @@ classes: wide
 </style>
 
 ### Master Thesis
+* (Ongoing) *Rick van Oosterhout*, Multi-fidelity Simulation Optimization for Large-scale Problems, TU Eindhoven
 * (Ongoing) *Yana Stoyanova*, Model Transfer for Offline Reinforcement Learning, TU Eindhoven
 * (Ongoing) *Ivan Knunyants*, Algorithm-hardware co-optimization for Transformers, TU Eindhoven, in collaboration with [imec](https://www.imec-int.com/en/the-netherlands)
 * (Ongoing) *Nicholas Kölln*, Offline Reinforcement Learning via Transformers, TU Eindhoven
@@ -30,8 +31,10 @@ Multimodality and Transformers, TU Eindhoven, **Accepted at NLDL 2023**
 * (2013) *Mario Herdt*, Personalized Diverse Recommendations, TU Darmstadt
 
 ### Bachelor Thesis
+* (Ongoing) *Daan Gouwy*, Model-based Offline Reinforcement Learning, TU Eindhoven
+* (Ongoing) *Pradyut Nair*, Model-based Offline Reinforcement Learning, TU Eindhoven
 * (2022) *Yana Stoyanova*, Comparison Between Various Ensemble Uncertainty Quantification
-Methods in Regression Tasks, TU Eindhoven, **Accepted at AAAI 2023**
+Methods in Regression Tasks, TU Eindhoven, **Published at AAAI 2023**
 * (2022) *Lieve Göbbels*, Unreliable Uncertainty: How Bayesian Non-identifiability Influences the Performance of Uncertainty Quantification Methods in the Context of Reinforcement Learning, TU Eindhoven
 * (2016) *Akath Singh Dua*, Sequential Recommendation Systems
 * (2015) *Radhika Gaonkar*, MDP-based itinerary recommendation using geo-tagged social media, TU Darmstadt, [Published at IDA 2018](https://link.springer.com/chapter/10.1007/978-3-030-01768-2_10)
