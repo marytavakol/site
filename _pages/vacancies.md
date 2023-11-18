@@ -17,6 +17,9 @@ If you are passionate about research and seek academic freedom, explore self-fun
 <br/>I am looking for a highly motivated and skilled PhD candidate to work in the area of Reinforcement Learning. For more information regarding the position and how to apply, please follow this [link](https://jobs.tue.nl/en/vacancy/phd-position-in-reinforcement-learning-990306.html). The vacancy will remain open until the position is filled.
 
 ### <u>Master thesis</u>
+
+See the open projects on the [DAI website](https://dai.win.tue.nl/masterprojects/)
+
 **Efficient Unbiased Training of Large-scale Distributed RL**<br/>
 In collaboration with [Ali Ramezani-Kebrya, University of Oslo](https://www.mn.uio.no/ifi/english/people/aca/ali/index.html).
 <details>
