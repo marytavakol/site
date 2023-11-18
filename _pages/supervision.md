@@ -9,6 +9,7 @@ classes: wide
 </style>
 
 ### Master Thesis
+* (Ongoing) *Yana Stoyanova*, Model Transfer for Offline Reinforcement Learning, TU Eindhoven
 * (Ongoing) *Ivan Knunyants*, Algorithm-hardware co-optimization for Transformers, TU Eindhoven, in collaboration with [imec](https://www.imec-int.com/en/the-netherlands)
 * (Ongoing) *Nicholas Kölln*, Offline Reinforcement Learning via Transformers, TU Eindhoven
 * (2023) *Maiko Bergman*, Offline Reinforcement Learning, TU Eindhoven
