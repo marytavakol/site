@@ -12,7 +12,7 @@ classes: wide
 * (Ongoing) *Maiko Bergman*, Offline Reinforcement Learning, TU Eindhoven
 * (Ongoing) *Cas Teeuwen*, Delivery Planning via Reinforcement Learning, TU Eindhoven, in collaboration with [Datacation](https://www.datacation.nl/)
 * (Ongoing) *Nicholas Kölln*, Offline Reinforcement Learning via Transformers, TU Eindhoven
-* (Ongoing) *Ibrahim El Garmouhi*, Robust Counterfactual Model Explanation for Patient-Centric Life-style Recommendation on the Cloud, TU Eindhoven, in collaboration with [dr. Mostafa Kia](https://research.tilburguniversity.edu/en/persons/seyed-mostafa-kia)
+* (2023) *Ibrahim El Garmouhi*, Robust Counterfactual Model Explanation for Patient-Centric Life-style Recommendation on the Cloud, TU Eindhoven, in collaboration with [dr. Mostafa Kia](https://research.tilburguniversity.edu/en/persons/seyed-mostafa-kia)
 * (2022) *Youri Vis*, Effective Sampling in Intrinsically Motivated Reinforcement Learning, TU Eindhoven
 * (2022) *Jeroen Albrechts*, Hyperparameter Optimization via Model-Based Reinforcement Learning, TU Eindhoven
 * (2022) *Mathijs Boezer*, FastDTI: Drug-Target Interaction Prediction using
