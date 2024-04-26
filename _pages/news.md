@@ -3,6 +3,11 @@ permalink: /news/
 title: "News"
 classes: wide
 ---
+
+**BeNeRL Workshop** <small class="news-date">April 2024</small>
+<br/>Together with Herke van Hoof and Vincent Francois-Lavet, we are organizing the 2024 edition of the Belgian-Netherlands Reinforcement Learning Workshop (BeNeRL) in Amsterdam! It will take place on June 10th, and will be a free event thanks to generous support by the Ellis Unit Amsterdam and the NWO. Registration is required, though.
+More info & sign-up at [the event website](https://www.benerl.org/workshop/2024-amsterdam).
+
 **Career Update** <small class="news-date">December 2023</small>
 <br/>I got tenure.
 
