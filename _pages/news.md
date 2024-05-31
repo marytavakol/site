@@ -5,7 +5,7 @@ classes: wide
 ---
 
 **Deceptive AI: featured in de Volkskrant** <small class="news-date">May 2024</small>
-<br/>I was interviewed about whether artificial intelligence AI systems developed nowadays can be indeed deceptive which is published (in Dutch) at the [de Volkskrant](https://www.volkskrant.nl/wetenschap/mit-onderzoekers-constateren-strategisch-bedrog-door-ai-we-kunnen-de-controle-over-autonome-systemen-verliezen~b0f69c0d/).
+<br/>I was interviewed about whether AI systems developed nowadays can be deceptive, which is published (in Dutch) at the [de Volkskrant](https://www.volkskrant.nl/wetenschap/mit-onderzoekers-constateren-strategisch-bedrog-door-ai-we-kunnen-de-controle-over-autonome-systemen-verliezen~b0f69c0d/).
 
 **BeNeRL Workshop** <small class="news-date">April 2024</small>
 <br/>Together with Herke van Hoof and Vincent Francois-Lavet, we are organizing the 2024 edition of the Belgian-Netherlands Reinforcement Learning Workshop (BeNeRL) in Amsterdam! It will take place on June 10th, and will be a free event thanks to generous support by the Ellis Unit Amsterdam and the NWO. Registration is required, though.
