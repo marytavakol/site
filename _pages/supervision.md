@@ -8,9 +8,6 @@ classes: wide
 .page__content li {font-size:0.8em}
 </style>
 
-### PhD Candidates
-* *Hugo Max Martin*, Model-based Offline Reinforcement Learning, TU Eindhoven
-
 ### Master Thesis
 * (2024) *Yana Stoyanova*, Model Transfer for Offline Reinforcement Learning, TU Eindhoven
 * (2024) *Ivan Knunyants*, Algorithm-hardware co-optimization for Transformers, TU Eindhoven, in collaboration with [imec](https://www.imec-int.com/en/the-netherlands)
