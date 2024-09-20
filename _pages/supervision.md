@@ -18,7 +18,7 @@ classes: wide
 * (2022) *Youri Vis*, Effective Sampling in Intrinsically Motivated Reinforcement Learning, TU Eindhoven
 * (2022) *Jeroen Albrechts*, Hyperparameter Optimization via Model-Based Reinforcement Learning, TU Eindhoven
 * (2022) *Mathijs Boezer*, FastDTI: Drug-Target Interaction Prediction using
-Multimodality and Transformers, TU Eindhoven, **Accepted at NLDL 2023**
+Multimodality and Transformers, TU Eindhoven, **Published at NLDL 2023**
 * (2022) *Çağla Sözen*, A comparative study on Unsupervised Deep Learning Methods for X-Ray Image denoising with Multi-Image Self2Self and Single Frequency, Denoising, TU Eindhoven, in collaboration with [Philips Research](https://www.philips.com/a-w/about/innovation/research.html)
 * (2021) *Stef Creemers*, Balancing Efficiency and Fairness on Ride-Hailing Platforms via Reinforcement Learning, TU Eindhoven
 * (2021) *Zian Fang*, Long- and Short-term Sequential Recommendation with Enhanced Temporal Self-attention, TU Eindhoven
