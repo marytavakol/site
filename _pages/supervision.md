@@ -30,8 +30,9 @@ Multimodality and Transformers, TU Eindhoven, **Accepted at NLDL 2023**
 * (2013) *Mario Herdt*, Personalized Diverse Recommendations, TU Darmstadt
 
 ### Bachelor Thesis
-* (Ongoing) *Daan Gouwy*, Model-based Offline Reinforcement Learning, TU Eindhoven
-* (Ongoing) *Pradyut Nair*, Model-based Offline Reinforcement Learning, TU Eindhoven
+* (2024) *Kiril Iliev*, Active Reinforcement Learning Sampling Approach, TU Eindhoven
+* (2024) *Alessandro Preiti*, Learn how to Learn: Reinforcement Active Learning for Object Detection, TU Eindhoven
+* (2024) *Pradyut Nair*, Model-based Offline Reinforcement Learning, TU Eindhoven
 * (2022) *Yana Stoyanova*, Comparison Between Various Ensemble Uncertainty Quantification
 Methods in Regression Tasks, TU Eindhoven, **Published at AAAI 2023**
 * (2022) *Lieve Göbbels*, Unreliable Uncertainty: How Bayesian Non-identifiability Influences the Performance of Uncertainty Quantification Methods in the Context of Reinforcement Learning, TU Eindhoven
