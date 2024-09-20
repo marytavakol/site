@@ -12,10 +12,9 @@ classes: wide
 * *Hugo Max Martin*, Model-based Offline Reinforcement Learning, TU Eindhoven
 
 ### Master Thesis
-* (Ongoing) *Rick van Oosterhout*, Multi-fidelity Simulation Optimization for Large-scale Problems, TU Eindhoven
-* (Ongoing) *Yana Stoyanova*, Model Transfer for Offline Reinforcement Learning, TU Eindhoven
-* (Ongoing) *Ivan Knunyants*, Algorithm-hardware co-optimization for Transformers, TU Eindhoven, in collaboration with [imec](https://www.imec-int.com/en/the-netherlands)
-* (Ongoing) *Nicholas Kölln*, Offline Reinforcement Learning via Transformers, TU Eindhoven
+* (2024) *Yana Stoyanova*, Model Transfer for Offline Reinforcement Learning, TU Eindhoven
+* (2024) *Ivan Knunyants*, Algorithm-hardware co-optimization for Transformers, TU Eindhoven, in collaboration with [imec](https://www.imec-int.com/en/the-netherlands)
+* (2024) *Nicholas Kölln*, Offline Reinforcement Learning via Transformers, TU Eindhoven
 * (2023) *Maiko Bergman*, Offline Reinforcement Learning, TU Eindhoven
 * (2023) *Cas Teeuwen*, Delivery Planning via Reinforcement Learning, TU Eindhoven, in collaboration with [Datacation](https://www.datacation.nl/)
 * (2023) *Ibrahim El Garmouhi*, Robust Counterfactual Model Explanation for Patient-Centric Life-style Recommendation on the Cloud, TU Eindhoven, in collaboration with [dr. Mostafa Kia](https://research.tilburguniversity.edu/en/persons/seyed-mostafa-kia)
