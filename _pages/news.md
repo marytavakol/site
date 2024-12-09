@@ -5,10 +5,10 @@ classes: wide
 ---
 
 **Accepted paper at ICAART** <small class="news-date">December 2024</small>
-<br/>Our paper entitled "Cross-Domain Generalization with Reverse Dynamics Models in Offline Model-Based Reinforcement Learning" has been accepted at the [ICAART25](https://icaart.scitevents.org/).
+<br/>Our paper entitled "Cross-Domain Generalization with Reverse Dynamics Models in Offline Model-Based Reinforcement Learning" has been accepted at the [ICAART 2025](https://icaart.scitevents.org/).
 
 **Accepted paper at IDEAL** <small class="news-date">September 2024</small>
-<br/>Our paper entitled "Model-Based Meta-Reinforcement Learning for Hyperparameter Optimization" has been accepted at the [IDEAL24](https://ideal2024.webs.upv.es/).
+<br/>Our paper entitled "Model-Based Meta-Reinforcement Learning for Hyperparameter Optimization" has been accepted at the [IDEAL 2024](https://ideal2024.webs.upv.es/).
 
 **Deceptive AI: featured in de Volkskrant** <small class="news-date">May 2024</small>
 <br/>I was interviewed about whether AI systems developed nowadays can be deceptive, which is published (in Dutch) at the [de Volkskrant](https://www.volkskrant.nl/wetenschap/mit-onderzoekers-constateren-strategisch-bedrog-door-ai-we-kunnen-de-controle-over-autonome-systemen-verliezen~b0f69c0d/).
