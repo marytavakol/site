@@ -4,6 +4,9 @@ title: "News"
 classes: wide
 ---
 
+**Accepted paper at ICAART** <small class="news-date">December 2024</small>
+<br/>Our paper entitled "Cross-Domain Generalization with Reverse Dynamics Models in Offline Model-Based Reinforcement Learning" has been accepted at the [ICAART25](https://icaart.scitevents.org/).
+
 **Accepted paper at IDEAL** <small class="news-date">September 2024</small>
 <br/>Our paper entitled "Model-Based Meta-Reinforcement Learning for Hyperparameter Optimization" has been accepted at the [IDEAL24](https://ideal2024.webs.upv.es/).
 
