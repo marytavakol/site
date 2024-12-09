@@ -11,6 +11,14 @@ toc depth: 1
 .page__content p {font-size:0.8em}
 .page__content p a {font-size:16pt}
 </style>
+
+## 2024
+
+[Model-Based Meta-Reinforcement Learning for Hyperparameter Optimization](/assets/publications/AAAI23.pdf)  
+J. Albrechts, H. Martin, M. Tavakol <br />
+International Conference on Intelligent Data Engineering and Automated Learning.
+
+
 ## 2023
 
 [Toward Robust Uncertainty Estimation with Random Activation Functions](/assets/publications/AAAI23.pdf)  
@@ -19,7 +27,7 @@ Proceedings of the AAAI 2023, the Thirty-Seventh AAAI Conference on Artificial I
 
 [FastDTI: Drug-Target Interaction Prediction using Multimodality and Transformers](/assets/publications/NLDL23.pdf)  
 M. Boezer, M. Tavakol, Z. Sajadi <br />
-Proceedings of the Northern Lights Deep Learning Workshop
+Proceedings of the Northern Lights Deep Learning Workshop.
 
 
 
