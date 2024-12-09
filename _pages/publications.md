@@ -14,7 +14,7 @@ toc depth: 1
 
 ## 2024
 
-[Model-Based Meta-Reinforcement Learning for Hyperparameter Optimization](/assets/publications/AAAI23.pdf)  
+[Model-Based Meta-Reinforcement Learning for Hyperparameter Optimization](https://link.springer.com/chapter/10.1007/978-3-031-77731-8_3)  
 J. Albrechts, H. Martin, M. Tavakol <br />
 International Conference on Intelligent Data Engineering and Automated Learning.
 
