@@ -12,6 +12,10 @@ ul li {margin-bottom:  0px;}
 
 ### Eindhoven University of Technology
 
+#### AY 2024-2025
+
+* Data Intelligence Challenge (Q4) <small class="news-date">Master of Data Sceince & AI</small>
+
 #### AY 2023-2024
 
 * Data Intelligence Challenge (Q4) <small class="news-date">Master of Data Sceince & AI</small>
