@@ -14,7 +14,7 @@ toc depth: 1
 
 ## 2025
 
-[Cross-Domain Generalization with Reverse Dynamics Models in Offline Model-Based Reinforcement Learning](](https://www.scitepress.org/PublishedPapers/2025/130972/)https://link.springer.com/chapter/10.1007/978-3-031-77731-8_3)  
+[Cross-Domain Generalization with Reverse Dynamics Models in Offline Model-Based Reinforcement Learning](https://www.scitepress.org/PublishedPapers/2025/130972/)  
 Y. Stoyanova, M. Tavakol <br />
 International Conference on Agents and Artificial Intelligence.
 
