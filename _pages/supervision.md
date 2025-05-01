@@ -30,8 +30,11 @@ Multimodality and Transformers, TU Eindhoven, **Published at NLDL 2023**
 * (2013) *Mario Herdt*, Personalized Diverse Recommendations, TU Darmstadt
 
 ### Bachelor Thesis
-* (2024) *Kiril Iliev*, Active Reinforcement Learning Sampling Approach, TU Eindhoven
-* (2024) *Alessandro Preiti*, Learn how to Learn: Reinforcement Active Learning for Object Detection, TU Eindhoven
+* (ongoing) *Jagoda Nawrat*, Adapting Fairness-Aware Datasets for Sequential Use with Group-based Metrics, TU Eindhoven
+* (ongoing) *Arina Crăciun*, Adapting Fairness-Aware Datasets for Sequential Use with Individual Metrics, TU Eindhoven
+* (ongoing) *Daniel Osman*, Pseudo-Labeling for Scalable and Streamlined Annotations, TU Eindhoven, in collaboration with [VBTI](https://www.vbti.nl/)
+* (2024) *Kiril Iliev*, Active Reinforcement Learning Sampling Approach, TU Eindhoven, in collaboration with [VBTI](https://www.vbti.nl/)
+* (2024) *Alessandro Preiti*, Learn how to Learn: Reinforcement Active Learning for Object Detection, TU Eindhoven, in collaboration with [VBTI](https://www.vbti.nl/)
 * (2024) *Pradyut Nair*, Model-based Offline Reinforcement Learning, TU Eindhoven
 * (2022) *Yana Stoyanova*, Comparison Between Various Ensemble Uncertainty Quantification
 Methods in Regression Tasks, TU Eindhoven, **Published at AAAI 2023**
