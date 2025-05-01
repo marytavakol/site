@@ -14,7 +14,7 @@ ul li {margin-bottom:  0px;}
 
 #### AY 2024-2025
 
-* Data Intelligence Challenge (Q4) <small class="news-date">Master of Data Sceince & AI</small>
+* Data Intelligence Challenge (Reinforcement Learning in Practice) <small class="news-date">Master of Data Sceince & AI</small>
 
 #### AY 2023-2024
 
