@@ -12,6 +12,13 @@ toc depth: 1
 .page__content p a {font-size:16pt}
 </style>
 
+## 2025
+
+[Cross-Domain Generalization with Reverse Dynamics Models in Offline Model-Based Reinforcement Learning](](https://www.scitepress.org/PublishedPapers/2025/130972/)https://link.springer.com/chapter/10.1007/978-3-031-77731-8_3)  
+Y. Stoyanova, M. Tavakol <br />
+International Conference on Agents and Artificial Intelligence.
+
+
 ## 2024
 
 [Model-Based Meta-Reinforcement Learning for Hyperparameter Optimization](https://link.springer.com/chapter/10.1007/978-3-031-77731-8_3)  
