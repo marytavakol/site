@@ -4,6 +4,9 @@ title: "News"
 classes: wide
 ---
 
+**BeNeRL Workshop** <small class="news-date">May 2025</small>
+<br/>Together with Thiago Simão and Danil Provodin, we are hosting the 2025 edition of the Belgian-Netherlands Reinforcement Learning Workshop (BeNeRL) at TU Eindhoven on July 4th. More info & sign-up at [the event website](https://www.benerl.org/workshop/2025-eindhoven).
+
 **Accepted paper at AICAS** <small class="news-date">December 2024</small>
 <br/>Our paper entitled "Explore Activation Sparsity in Recurrent LLMs for Energy-Efficient Neuromorphic Computing" has been accepted at the [AICAS 2025](https://aicas2025.org/).
 
