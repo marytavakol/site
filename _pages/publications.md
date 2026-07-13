@@ -18,8 +18,6 @@ toc depth: 1
 I. Knunyants, M. Tavakol, M. Sifalakis, Y. Xu, A. Yousefzadeh, G. Tang <br />
 International Conference on Artificial Intelligence Circuits and Systems (AICAS).
 
-## 2025
-
 [Cross-Domain Generalization with Reverse Dynamics Models in Offline Model-Based Reinforcement Learning](https://www.scitepress.org/PublishedPapers/2025/130972/)  
 Y. Stoyanova, M. Tavakol <br />
 International Conference on Agents and Artificial Intelligence.
