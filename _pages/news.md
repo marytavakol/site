@@ -89,6 +89,8 @@ the [International Symposium on Intelligent Data Analysis 2022](https://ida-2022
 **Accepted paper at ICDE** <small class="news-date">December 2022</small>
 <br/>Our paper entitled ["An Actor-Critic Ensemble Aggregation Model for Time-Series Forecasting"](/assets/publications/ICDE21.pdf) has been accepted at the [37th International Conference on Data Engineering (ICDE)](https://icde2023.ics.uci.edu/) as a poster.
 
+**PhD Committee Service** <small class="news-date">October 2021</small>
+<br/>I recently served as a member of the PhD examination committee for the doctoral defense of Masoud Mansoury at TU Eindhoven.
 
 **PhD student oppertunity at TU/e** <small class="news-date">November 2020</small>
 <br/>We are looking for a highly motivated and skilled PhD candidate to work in the area of Machine Learning. For more information, please follow this [link](https://jobs.tue.nl/nl/vacature/phd-position-in-machine-learning-864922.html).
