@@ -71,19 +71,13 @@ author:
   links:
     - label: "TU/e Website"
       icon: "fas fa-fw fa-link"
-      url: "https://uai.win.tue.nl/author/maryam-tavakol/"
+      url: "https://research.tue.nl/en/persons/maryam-tavakol/"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=2ycXzoIAAAAJ&hl=en"
     - label: "Email"
       icon: "fa fa-fw fa-envelope"
       url: "mailto:m.tavakol@tue.nl"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/marytavakol"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/mary-tavakol/"
 
 #footer:
   # links:
