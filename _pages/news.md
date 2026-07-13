@@ -4,6 +4,14 @@ title: "News"
 classes: wide
 ---
 
+
+
+**PhD Committee Service** <small class="news-date">March 2026</small>
+<br/>I served as a member of the PhD examination committee for the doctoral defense of Niklas Höpner at University of Amsterdam.
+
+**PhD Committee Service** <small class="news-date">October 2025</small>
+<br/>I served as a member of the PhD examination committee for the doctoral defense of Kaizheng Wang at KU Leuven (Belgium).
+
 **BeNeRL Workshop** <small class="news-date">May 2025</small>
 <br/>Together with Thiago Simão and Danil Provodin, we are hosting the 2025 edition of the Belgian-Netherlands Reinforcement Learning Workshop (BeNeRL) at TU Eindhoven on July 4th. More info & sign-up at [the event website](https://www.benerl.org/workshop/2025-eindhoven).
 
@@ -69,6 +77,8 @@ the [International Symposium on Intelligent Data Analysis 2022](https://ida-2022
 **PC member at various venues in 2022** <small class="news-date">December 2021</small>
 <br/>I serve as a technical program committee at AISTATS 22, ICLR 22, ICML 22, IJCAI 22, and UAI 22.
 
+**PhD Committee Service** <small class="news-date">October 2021</small>
+<br/>I served as a member of the PhD examination committee for the doctoral defense of Masoud Mansoury at TU Eindhoven.
 
 **Invited Talk** <small class="news-date">August 2021</small>
 <br/>I will give a talk in the workshop of "The Scoring Society" about [fairness in Machine Learning](/assets/talks/FairnessInML21.pdf) on September 2nd, 2021.
@@ -86,11 +96,8 @@ the [International Symposium on Intelligent Data Analysis 2022](https://ida-2022
 <br/>I serve as a technical program committee at AAAI 21, ICLR 21, AISTATS 21, ICML 21, IJCAI 21, UAI 21, and ECML 21.
 
 
-**Accepted paper at ICDE** <small class="news-date">December 2022</small>
+**Accepted paper at ICDE** <small class="news-date">December 2020</small>
 <br/>Our paper entitled ["An Actor-Critic Ensemble Aggregation Model for Time-Series Forecasting"](/assets/publications/ICDE21.pdf) has been accepted at the [37th International Conference on Data Engineering (ICDE)](https://icde2023.ics.uci.edu/) as a poster.
-
-**PhD Committee Service** <small class="news-date">October 2021</small>
-<br/>I recently served as a member of the PhD examination committee for the doctoral defense of Masoud Mansoury at TU Eindhoven.
 
 **PhD student oppertunity at TU/e** <small class="news-date">November 2020</small>
 <br/>We are looking for a highly motivated and skilled PhD candidate to work in the area of Machine Learning. For more information, please follow this [link](https://jobs.tue.nl/nl/vacature/phd-position-in-machine-learning-864922.html).
