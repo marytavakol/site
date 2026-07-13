@@ -24,3 +24,11 @@ I received both of my B.Sc. and M.Sc degrees in Computer Science from the [Unive
 <li>Applied Machine Learning</li>
 <li>Recommendation Systems</li>
 </ul>
+
+
+## Education
+
+<ul>
+<li>PhD in Machine Learning, 2019 <br/><small>Technical Univeristy of Darmstadt, Germany</small></li>
+<li>MSc in Artificial Intelligence, 2013 <br/><small> University of Tehran, Iran</small></li>
+<li>BSc in Computer Science, 2010<br/><small> University of Tehran, Iran</small></li></ul>
