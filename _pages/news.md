@@ -4,7 +4,9 @@ title: "News"
 classes: wide
 ---
 
-
+**Invited talk** <small class="news-date">June 2026</small>
+<br/>
+I gave a talk about "Model-based Offline RL" at [**BeNeRL 2026**](https://www.benerl.org/workshop/2026-tilburg) in Tilburg on **June 19th 2026**.
 
 **PhD Committee Service** <small class="news-date">March 2026</small>
 <br/>I served as a member of the PhD examination committee for the doctoral defense of Niklas Höpner at University of Amsterdam.
