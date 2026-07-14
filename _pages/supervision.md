@@ -9,6 +9,9 @@ classes: wide
 </style>
 
 ### Master Thesis
+* (ongoing) *Dorus Hendriks*, Bidirectional Context-aware Offline Reinforcement Learning, TU Eindhoven
+* (ongoing) *Stefan Robu*, Long-term Fairness of Decisions with Offline Reinforcement Learning, TU Eindhoven
+* (ongoing) *Enea Carlini*, Privileged RL and Flow-Matching VLAs for Sim-to-Real Co-Training in Robotic Manipulation, TU Eindhoven
 * (2025) *Vera Luksen*, Breeding Program Optimization via Offline Reinforcement Learning, TU Eindhoven, in collaboration with Wageningen University & Research
 * (2025) *Robert Smolders*, Uncertainty Estimation for Offline Reinforcement Learning, TU Eindhoven
 * (2025) *Thomas Bosch*, Fine-Tuning of Foundational Vision Models, TU Eindhoven, in collaboration with [VBTI](https://www.vbti.nl/)
