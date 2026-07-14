@@ -15,7 +15,7 @@ classes: wide
 * (2025) *Vera Luksen*, Breeding Program Optimization via Offline Reinforcement Learning, TU Eindhoven, in collaboration with Wageningen University & Research
 * (2025) *Robert Smolders*, Uncertainty Estimation for Offline Reinforcement Learning, TU Eindhoven
 * (2025) *Thomas Bosch*, Fine-Tuning of Foundational Vision Models, TU Eindhoven, in collaboration with [VBTI](https://www.vbti.nl/)
-* (2024) *Yana Stoyanova*, Model Transfer for Offline Reinforcement Learning, TU Eindhoven, **Published at CAART 2025**
+* (2024) *Yana Stoyanova*, Model Transfer for Offline Reinforcement Learning, TU Eindhoven, **Published at ICAART 2025**
 * (2024) *Ivan Knunyants*, Algorithm-hardware co-optimization for Transformers, TU Eindhoven, in collaboration with [imec](https://www.imec-int.com/en/the-netherlands), **Published at AICAS 2025**
 * (2024) *Nicholas Kölln*, Offline Reinforcement Learning via Transformers, TU Eindhoven
 * (2023) *Maiko Bergman*, Offline Reinforcement Learning, TU Eindhoven
